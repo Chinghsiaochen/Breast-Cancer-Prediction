@@ -20,7 +20,8 @@ Numpy
 
 ## Data Description
 
-The dataset is taken from UCI Machine Learning Database. There are 569 instances, each instance has 32 attributes (ID, diagnosis, 30 real-valued input features)
+The dataset is taken from UCI Machine Learning Database. 
+There are 569 instances, each instance has 32 attributes (ID, diagnosis, 30 real-valued input features).
 The mean, standard error, and "worst" or largest (mean of the three largest values) of these features were computed for each image, resulting in 30 features: 
 
 	a) radius (mean of distances from center to points on the perimeter)
