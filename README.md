@@ -10,13 +10,13 @@
 Breast cancer stands as the predominant form of cancer affecting women globally. The genesis of breast cancer lies in the uncontrolled proliferation of cells within the breast tissue, culminating in discernible tumors detectable through diagnostic methods such as X-rays or palpable lumps. To address this task, the endeavor is to utilize machine learning techniques to leverage predictive analysis on Breast Cancer Wisconsin (Diagnostic) Dataset.
 
 ### Dependencies
-Jupyter notebook
-Tensorflow 2.12.0
-Python 3.10
-Matplotlib
-Scikit-Learn
-Pandas
-Numpy
+- Jupyter notebook
+- Tensorflow 2.12.0
+- Python 3.10
+- Matplotlib
+- Scikit-Learn
+- Pandas
+- Numpy
 
 ## Data Description
 
